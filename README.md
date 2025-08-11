@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @taqwasaboor
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Mern Stack Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can direct message me.
 
