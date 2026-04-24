@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taqwasaboor
-- 👀 I’m interested in Penetration Testing and full stack development
+- 👀 I’m interested full stack development and QA Testing
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can direct message me.
 
